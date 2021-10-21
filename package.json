@@ -2,5 +2,9 @@
   "name": "js",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "loadash": "1.0.0",
+    "lodash": "^4.17.21",
+    "moment": "2.29.1"
+  }
 }
